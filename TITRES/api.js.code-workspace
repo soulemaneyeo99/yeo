@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../api.js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TITRES"
+	}
+}
